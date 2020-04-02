@@ -1,6 +1,6 @@
 # vs_flutter_hello
 
-A new Flutter project.
+A new Flutter project (With VS Code).
 
 ## Getting Started
 
